@@ -1,0 +1,37 @@
+# Video files — too large for git, upload to YouTube/Drive separately
+*.MOV
+*.mov
+*.mp4
+*.MP4
+*.avi
+
+# Excel files
+*.xlsx
+*.xls
+~$*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+*.egg-info/
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# ROS
+*.bag
+devel/
+build/
+install/
+
+# Large data files (keep CSVs — they're small)
+# data/*.csv  ← intentionally NOT ignored
