@@ -8,7 +8,7 @@
 
 ## Demo
 
-> 📹 *Field recording video coming soon — upload in progress*
+> *Field recording video coming soon — upload in progress*
 >
 > The video shows the physical setup: Tracer Agilex 2.0 on polished tile, iPhone XR on tripod, ArUco marker on the robot chassis, and SSH connection to the Jetson Nano running the ROS measurement script.
 
@@ -192,10 +192,10 @@ python3 scripts/merge_calibration.py \
 
 | Phase | Status |
 |-------|--------|
-| Preliminary session (n=3, acel=0.5 only) | ✅ Complete |
-| Full factorial session (n=5, 810 runs) | 🔄 Data collection in progress |
-| Statistical analysis & model fitting | ⏳ Pending full dataset |
-| C++ implementation in hospital-agv-sim | ⏳ Pending model |
+| Preliminary session (n=3, acel=0.5 only) |  Complete |
+| Full factorial session (n=5, 810 runs) |  Data collection in progress |
+| Statistical analysis & model fitting |  Pending full dataset |
+| C++ implementation in hospital-agv-sim |  Pending model |
 
 ---
 
