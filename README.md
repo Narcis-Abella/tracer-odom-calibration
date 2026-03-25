@@ -8,7 +8,7 @@
 
 ## Demo
 
-<video src="media/Tracer Agilex 2.0 _odom calibration.mp4" controls title="Project Demo" style="max-width: 100%;">
+<video src="media/out.mp4" controls title="Project Demo" style="max-width: 100%;">
   Your browser does not support the video tag.
 </video>
 
