@@ -8,8 +8,10 @@
 
 ## Demo
 
-https://github.com/Narcis-Abella/tracer-odom-calibration/blob/main/media/Tracer%20Agilex%202.0%20_odom%20calibration.mp4
->
+<video src="media/Tracer Agilex 2.0 _odom calibration.mp4" controls title="Project Demo" style="max-width: 100%;">
+  Your browser does not support the video tag.
+</video>
+
 > The video shows the physical setup: Tracer Agilex 2.0 on polished tile, iPhone XR on tripod, ArUco marker on the robot chassis, and SSH connection to the Jetson Nano running the ROS measurement script.
 
 ---
